@@ -1,3 +1,3 @@
 # Brotrip
 
-cool manual on bro's '7ho'
+cool manual on bro's
